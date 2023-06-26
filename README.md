@@ -17,27 +17,21 @@
 </p>
 
 
-## <summary><h3>About me :</h3></summary>
+## <summary><h3>🧑🏻‍💻 About me :</h3></summary>
 
 - 🌱 &nbsp; I’m currently learning Flutter
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 
-## <summary><h3>Languages and Tools :</h3></summary>
+## <summary><h3>🛠️ Languages and Tools :</h3></summary>
 
-[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][flutter]
-[<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][dart]
-[<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][firebase]
-[<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-
-<br/>
+<a href="https://t.me/nextwor1d">
+    <img src="https://img.shields.io/badge/telegram-1da1f2?style=for-the-badge&logo=telegram&logoColor=white&color=27a0df"/></a> 
 
 ## <summary><h3>📊 GitHub Stats :</h3></summary>
+
 ![](https://github-readme-stats.vercel.app/api?username=nextwor1d&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nextwor1d&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nextwor1d&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[flutter]: https://flutter.dev
-[dart]: https://dart.dev
-[firebase]: https://firebase.google.com
-[vscode]: https://code.visualstudio.com
-
+---
+[![](https://visitcount.itsvg.in/api?id=nextwor1d&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
