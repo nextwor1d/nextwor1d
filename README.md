@@ -17,8 +17,7 @@
 - I’m currently learning mobile applications development using Flutter framework and Dart programming language.
 - I have been developing applications using Flutter and Dart for many hours, and have an in-depth understanding of their workings. My expertise includes designing and implementing complex user interfaces, handling state management, integrating APIs, and creating custom animations.
 - In addition, I am well-versed in the latest trends and best practices related to Flutter and Dart development, and regularly attend conferences and workshops to stay up-to-date with the latest advancements.
-- My Github repository is a testament to my skills as a programmer, and contains several impressive projects that demonstrate my ability to create high-quality, scalable, and efficient applications.
-
+  
 ## <summary><h3>🛠️ Languages and Tools :</h3></summary>
 
 <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/HTML5-db4b31?logo=html5&logoColor=white"/></a>
