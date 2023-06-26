@@ -29,6 +29,13 @@
 [<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][firebase]
 [<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 
+<br/>
+
+## <summary><h3>📊 GitHub Stats :</h3></summary>
+![](https://github-readme-stats.vercel.app/api?username=nextwor1d&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nextwor1d&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nextwor1d&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 [flutter]: https://flutter.dev
 [dart]: https://dart.dev
 [firebase]: https://firebase.google.com
