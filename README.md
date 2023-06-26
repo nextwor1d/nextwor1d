@@ -14,8 +14,10 @@
 
 ## <summary><h3>🧑🏻‍💻 About me :</h3></summary>
 
-- 🌱 &nbsp; I’m currently learning Flutter
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help
+- I’m currently learning mobile applications development using Flutter framework and Dart programming language.
+- I have been developing applications using Flutter and Dart for many hours, and have an in-depth understanding of their workings. My expertise includes designing and implementing complex user interfaces, handling state management, integrating APIs, and creating custom animations.
+- In addition, I am well-versed in the latest trends and best practices related to Flutter and Dart development, and regularly attend conferences and workshops to stay up-to-date with the latest advancements.
+- My Github repository is a testament to my skills as a programmer, and contains several impressive projects that demonstrate my ability to create high-quality, scalable, and efficient applications.
 
 ## <summary><h3>🛠️ Languages and Tools :</h3></summary>
 
