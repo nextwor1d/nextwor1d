@@ -28,6 +28,8 @@
 <a href="https://react.dev"><img src="https://img.shields.io/badge/REACT-149eca?logo=React&logoColor=white"/></a>
 <a href="https://nextjs.org"><img src="https://img.shields.io/badge/NEXT.JS-black?logo=nextdotjs&logoColor=white"/></a>
 <a href="https://nodejs.org"><img src="https://img.shields.io/badge/NODE.JS-79b300?logo=nodedotjs&logoColor=white"/></a>
+<a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/POSTGRESQL-699dc9?logo=postgresql&logoColor=white"/></a>
+<a href="https://graphql.org"><img src="https://img.shields.io/badge/GRAPHQL-de33a6?logo=GRAPHQL&logoColor=white"/></a>
 <a href="https://dart.dev"><img src="https://img.shields.io/badge/DART-2bb7f6?logo=DART&logoColor=white"/></a>
 <a href="https://flutter.dev"><img src="https://img.shields.io/badge/FLUTTER-015393?logo=flutter&logoColor=white"/></a>
 <a href="https://firebase.google.com"><img src="https://img.shields.io/badge/FIREBASE-ffcb2b?logo=FIREBASE&logoColor=white"/></a>
@@ -38,6 +40,7 @@
 <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VSCODE-3c99d4?logo=visualstudio&logoColor=white"/></a>
 <a href="https://www.figma.com"><img src="https://img.shields.io/badge/FIGMA-f76e5f?logo=FIGMA&logoColor=white"/></a>
 <a href="https://www.canva.com"><img src="https://img.shields.io/badge/CANVA-5440e2?logo=CANVA&logoColor=white"/></a>
+<a href="https://openai.com"><img src="https://img.shields.io/badge/OPENAI-6ea194?logo=OPENAI&logoColor=white"/></a>
 
 
 ## <summary><h3>📊 GitHub Stats :</h3></summary>
