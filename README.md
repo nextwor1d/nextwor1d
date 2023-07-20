@@ -43,7 +43,7 @@
 <a href="https://openai.com"><img src="https://img.shields.io/badge/OPENAI-6ea194?logo=OPENAI&logoColor=white"/></a>
 
 
-## <summary><h3> Support Me :</h3></summary>
+## <summary><h3>🤝 Support Me :</h3></summary>
 <a href="https://www.buymeacoffee.com/nextwor1d" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
