@@ -4,9 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/flutter_ninja"><img src="https://img.shields.io/badge/telegram-1da1f2?style=for-the-badge&logo=telegram&logoColor=white&color=27a0df"/></a> 
-  <a href="https://stackoverflow.com/users/21555356"><img src="https://img.shields.io/badge/stackoverflow-f27f25?style=for-the-badge&logo=stackoverflow&logoColor=white&color=f27f25"/></a>
-  <a href="https://linkedin.com/in/nextwor1d"><img src="https://img.shields.io/badge/linkedin-0c67c2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://t.me/nextwor1d"><img src="https://img.shields.io/badge/telegram-1da1f2?style=for-the-badge&logo=telegram&logoColor=white&color=27a0df"/></a> 
 </p>
 
 
