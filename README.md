@@ -6,13 +6,6 @@
 <p align="center">
   <a href="https://t.me/nextwor1d"><img src="https://img.shields.io/badge/telegram-1da1f2?style=for-the-badge&logo=telegram&logoColor=white&color=27a0df"/></a> 
 </p>
-
-
-## <summary><h3>🧑🏻‍💻 About me :</h3></summary>
-
-- I’m currently learning mobile applications development using Flutter framework and Dart programming language.
-- I have been developing applications using Flutter and Dart for many hours, and have an in-depth understanding of their workings. My expertise includes designing and implementing complex user interfaces, handling state management, integrating APIs, and creating custom animations.
-- In addition, I am well-versed in the latest trends and best practices related to Flutter and Dart development, and regularly attend conferences and workshops to stay up-to-date with the latest advancements.
   
 ## <summary><h3>🛠️ Languages and Tools :</h3></summary>
 
@@ -39,7 +32,9 @@
 
 
 ## <summary><h3>🤝 Support Me :</h3></summary>
-<a href="https://www.buymeacoffee.com/nextwor1d" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+If you enjoy my work and would like to show your support, consider sending a TON donation to the address below. Every contribution is greatly appreciated and helps keep the project going!
+
+TON Address: UQBGW9eF7N-d13jAx_Ybf3X4Z9XzzSMbSVJ0Bj8ldiuRu_By
 
 
 ## <summary><h3>📊 GitHub Stats :</h3></summary>
